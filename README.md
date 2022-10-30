@@ -2,6 +2,20 @@
 
 This is a small package for getting resources from Xresources. It can be used as a python module or as a CLI tool.
 
+## Installation
+
+From PyPi:
+
+```
+$ pip install xrcat
+```
+
+From cloned repo:
+
+```
+$ pip install .
+```
+
 ## Usage
 
 In the command line:
